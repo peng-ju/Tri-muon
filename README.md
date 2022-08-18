@@ -1,4 +1,3 @@
-# tri-muon
 
 # TrimuonKinematics 
 is a guide to plot histgrams 
