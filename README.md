@@ -1,4 +1,4 @@
-# These notebooks are for visualizing data from Tri-muon experiment
+# These notebooks are for visualizing data from the Tri-muon experiment
 
 # TrimuonKinematics 
 is a guide to plot histgrams 
